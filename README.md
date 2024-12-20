@@ -83,4 +83,6 @@ Understanding which demographic groups, such as gender and age, drive the highes
 
 # Recommendations 
 Based on the interpretation of these findings, we can create strategic recommendations to maximize the company's performance and profitability. 
-* Targeted Marketing Campaigns: 
+* Targeted Marketing Campaigns: Focus on promoting high-profit bike models to the age ground and gender that show the strongest purchasing behavior. In this case, focus on creating targeted marketing campaigns to entice males ages 35-64 to purchase products from this company. 
+* Regional Expansion and Resource Allocation: Knowing the sales performance in different countries allows the company to focus expansion efforts in the countries with the highest profitability, ensuring marketing budgets and inventory and prioritized in these regions. Similarly, assess underperforming regions to determine if adjustments in pricing, product offerings, or marketing could enhance sales. 
+* Seasonal Inventory and Sales Strategies: Leverage insights on monthly sales trends to optimize inventory levels. Stock up on popular bike models ahead of high-demand months and offer promotions and discounts during lower-performing months to drive sales and clear inventory. 
